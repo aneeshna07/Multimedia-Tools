@@ -8,5 +8,11 @@ This project consists of different tools to work three types of data
 - Images
 
 ### Text data : Text Editor
-To work with text data, we have a text editor.
+Basic Terminal Level Text Editor
 
+### Audio data : Volume Controller
+Control the volume of a .wav file
+
+
+### Image data : Image Filter
+Create filters using Matrix Operation on BitMap Images
